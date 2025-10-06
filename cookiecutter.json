@@ -1,0 +1,10 @@
+{
+    "project_slug": "my-userscript",
+    "project_name": "My UserScript",
+    "repository": "",
+    "description": "A simple userscript",
+    "author": "",
+    "email": "",
+    "license": ["ISC", "MIT", "Apache-2.0", "BSD-3-Clause", "GPL", "BSD"],
+    "version": "0.0.0"
+}

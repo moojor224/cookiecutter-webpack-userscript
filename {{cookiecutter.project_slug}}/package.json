@@ -1,0 +1,11 @@
+{
+    "name": "{{cookiecutter.project_slug}}",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "webpack": "webpack --config webpack.config.js"
+    },
+    "keywords": [],
+    "author": "{{cookiecutter.author}}",
+    "license": "{{cookiecutter.license}}"
+}
